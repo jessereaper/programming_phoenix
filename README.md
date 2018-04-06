@@ -1,3 +1,4 @@
+these apps are from the programming phoenix book that i am currently reading for my class.
 # Rumbl
 
 To start your Phoenix app:
